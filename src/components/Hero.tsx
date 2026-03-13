@@ -73,7 +73,7 @@ export const Hero: React.FC = () => {
           </a>
           <a
             href="/AmanJain_SDE2_4YOE.pdf"
-            download="Aman_Jain_Resume.pdf"
+            download
             className="inline-flex items-center gap-2 px-6 py-3 bg-zinc-900 border border-zinc-800 text-zinc-300 hover:bg-zinc-800 hover:text-emerald-400 transition-colors"
           >
             download_resume <Download size={18} />
