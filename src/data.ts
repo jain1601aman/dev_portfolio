@@ -96,7 +96,7 @@ export const resumeData = {
       bullets: [
         "Designed a JavaScript browser extension to find word meanings with examples directly from any web page, using API calls to fetch JSON data from dictionaryapi.dev and displaying it in a modal box."
       ],
-      links: ["https://github.com/jain1601aman/Dictionary"]
+      link: "https://github.com/jain1601aman/Dictionary"
     },
     {
       title: "Secure-chat",
@@ -104,7 +104,7 @@ export const resumeData = {
       bullets: [
         "Developed a web app using Node.js, Socket.io, and MongoDB for encrypted chat between two parties, utilizing 2048-bit asymmetric key encryption on the client side."
       ],
-      links: ["https://github.com/jain1601aman/secure-chat"]
+      link: "https://github.com/jain1601aman/secure-chat"
     }
   ],
   skills: [
