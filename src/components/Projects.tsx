@@ -28,7 +28,7 @@ export const Projects: React.FC = () => {
             >
               <div className="flex justify-between items-start mb-4">
                 <h3 className="text-xl font-bold text-zinc-100 group-hover:text-emerald-400 transition-colors">{project.title}</h3>
-                <a href="#" className="text-zinc-500 hover:text-emerald-400 transition-colors">
+                <a href={project.link} className="text-zinc-500 hover:text-emerald-400 transition-colors">
                   <Github size={20} />
                 </a>
               </div>
